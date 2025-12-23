@@ -1,0 +1,8 @@
+Brinjal_Diseased Brinjal Leaf - Cercospora Leaf Spot
+Brinjal_Fresh Brinjal Leaf
+Pepper__bell___Bacterial_spot
+Pepper__bell___healthy
+Tomato_Leaf_Mold
+Tomato_Septoria_leaf_spot
+Tomato_healthy
+Tomato_powdery_mildew
